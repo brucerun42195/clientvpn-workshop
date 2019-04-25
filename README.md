@@ -1,4 +1,4 @@
-**AWS Networking Workshop**
+**AWS Client VPN Workshop**
 --------------------
 
 More and more customers have been migrating their production workloads from on-premises into AWS cloud. But in the mean time, it's a huge challenge on how to connect tens or hundreds of VPC together and still have ability to control routing. Additionally, how to build a hybrid DNS architecture to allow all workloads communicating each other through DNS is a complicated question as well.
